@@ -1,0 +1,4 @@
+#Vim in shell
+
+set editing-mode vi
+set keymap vi-command
